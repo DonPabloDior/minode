@@ -1,4 +1,3 @@
-import users from './userData.ts'
 import type { IncomingMessage, ServerResponse } from 'node:http';
 import pool from "./db.ts";
 
